@@ -1,0 +1,3 @@
+# Utilidade 
+
+Lightroom servirá para configurações avançadas de iluminação e sombreamento além de ajuste de cores, abranje poucas ferramentas mas acaba sendo utilizado em diversos modos de trabalho
