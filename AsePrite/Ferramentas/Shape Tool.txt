@@ -1,0 +1,34 @@
+# Ferramenta de formas 
+
+A Shape Tool cria formas geómetricas mais conhecidas e principais, 
+como o formato eclipse e o retângulo
+ Tecla auxiliar para retângulo = U
+ Tecla auxiliar para eclipse = Shift+U
+ Ao clicar na tecla "U" com o retângulo, altera se ele será ou não preenchido, a mesma coisa com o eclipse, porém as teclas Shift+U  
+ Clicando e segurando o botão do mouse com devida forma selecionada,
+o design pode iniciar a forma, arrastando o ponteiro do mouse para a devida posição desejada pode definir-se o tamanho, o modelo e até o formato da forma geométrica.
+ Pressionando o botão esquerdo do mouse, a forma será posicionada 
+com a devida cor primária selecionada, 
+ Ao selecionar uma forma preenchida, ela será posicionada vazia du-
+rante o posicionamento, após soltar o botão do mouse ela será pre-
+enchida
+ Ao selecionar algum outro Brush Type, inicialmente nada mudará, 
+após aumentar a expessura de pixels poderá notar a mudança
+No BrushType secundário, aumentará a grossura da forma geométrica
+No terciário, será aumentado a largura da forma geométrica 
+ Estas formas também podem ser utilizadas nos cinco tipos de Inks
+ Ao pressionar teclas como Shift ou Ctrl, ela contém funcionalidade
+também para as duas formas:
+
+Ao pressionar a tecla Shift enquanto posiciona o retangulo, pode se
+definir apenas o tamanho da forma em modelo de quadrado, fazendo as-
+sim um quadrado perfeito
+Ao pressionar em um eclipse durante o posicionamento, pode se criar
+um circulo perfeito do tamanho que bem entender
+Ao pressionar a tecla Ctrl durante o posicionamento do retângulo, 
+pode se posicionar um quadrado controlando o tamanho atravéz de seu
+centro, a mesma coisa com o eclipse.
+ O designer também pode juntar as teclas "Shift"+"Ctrl", no retângu-
+lo e no eclipse
+
+

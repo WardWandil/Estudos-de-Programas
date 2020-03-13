@@ -1,0 +1,47 @@
+# Ferramenta: Linha 
+
+Esta ferramenta se responsabiliza por desenhar linhas de maneira 
+correta e de diversos ângulos
+ Segurando a os botões do mouse você pode iniciar a linha, arrastan-
+do o ponteiro para alguma direção pode-se definir o tamanho e em que
+ângulatura é inserida a linha
+ Tecla Auxiliar = L
+ Ao inserir a linha com o botão esquerdo, ela sairá com a cor pri-
+mária selecionada, ao fazer a linha com o direito, ela sairá com a 
+cor secundária seleciona
+ Com a tecla "Shift" (Windows) pressionada durante o posicionamento
+da linha, é possivel fazer linhas com ângulos perfeitos
+ Ao pressionar a tecla "Ctrl" (Windows) durante o posicionamento da
+linha, ela será duplicada pelo lado de trás e o desenhista poderá 
+girar a linha, ainda podendo se definir o tamanho
+ O desenhista também pode juntar as teclas "Ctrl+Shift" para juntar 
+as duas formas, produzindo linhas com ângulos perfeitos enquanto-a
+gira
+ Selecinando o segundo Brush Type, faz-se linhas mais cúbicas, sele-
+cionando o terceiro não altera o efeito inicialmente, apenas após
+alterando a expessura de pixels
+Ao aumentar a expessura de pixels no primeiro Brush Type, aumenta a 
+grossura da linha
+Ao aumentar no segundo, aumenta-se a forma cúbica da linha
+Ao aumentar no terceiro, aumenta-se a largura da linhal
+ A ferramenta também pode ser utilizada nos modelos de Ink
+
+ A ferramenta também tem seu segundo formato, a "Linha curva", que
+após posiciona-la normamente, é possível encurvar a linha para onde
+bem entender. Após clicar uma vez com o botão esquerdo do mouse, 
+confirma-se o primeiro posicionamento da linha-curva, clicando nova-
+mente, confirma-se o ultimo posicionamento
+Tecla atalho = Shift+L
+
+ Ao chegar aqui você compreende as funcionalidades das ferramentas 
+                       Linha e Linha curva
+
+
+
+
+
+
+
+
+
+
