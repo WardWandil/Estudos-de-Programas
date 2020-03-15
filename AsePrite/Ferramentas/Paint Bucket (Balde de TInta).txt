@@ -1,11 +1,13 @@
 # Balde de tinta 
 
 Esta ferramenta é popular em quase todas os programas de design,
-sendo utilizada para preencher espaços com uma certa coloração ou substituir uma cor pela outra de forma prática e efetiva.
+sendo utilizada para preencher espaços com uma certa coloração ou
+substituir uma cor pela outra de forma prática e efetiva.
  Tecla Auxiliar: G
  Em diversas práticas, o balde de tinta é utilizado.
  Como por exemplo, o designer fez um esboço da estrututa de um per-
-sonagem ou ambiente, então ele pode preencher de cor rapidamente usando o Paint Bucket.
+sonagem ou ambiente, então ele pode preencher de cor rapidamente
+usando o Paint Bucket.
  Ou outro exemplo, ele fez um desenho mas não gostou de uma certa
 cor que inseriu em algum lugar do desenho, então ele pode, com o
 balde de tinta, substituir a cor que não quer clicando em cima da 
@@ -15,7 +17,8 @@ assim, as cores do desenho.
 lidade da ferramenta, será efetuada na cor primária selecionada; ao
 clicar com o botão direito, será efetuada sua funcionalidade com a
 devida cor secundária selecionada. 
- Após opção "Continous" desativa, (localizada no canto superior da interface do programa enquanto o balde de tinta estiver equipado),
+ Após opção "Continous" desativa, (localizada no canto superior da
+interface do programa enquanto o balde de tinta estiver equipado),
 após clicar em uma cor que deseja substituir, todas as mesmas cores 
 da área serão substituidas pela desejada.
  Se não deseja substituir absolutamente todas as mesmas cores do de-

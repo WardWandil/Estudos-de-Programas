@@ -1,6 +1,7 @@
 # Ferramenta de Spray
 
-A ferramenta de Spray populalizou-se la no Paint do Windows,consis- te em uma ferramenta similar a caneta, mas que desenha pixels de ma-
+A ferramenta de Spray populalizou-se la no Paint do Windows,consis-
+te em uma ferramenta similar a caneta, mas que desenha pixels de ma-
 neira ampla e espalhada
  Tecla Auxiliar = Shift+B
  Ao utiliza-la, ela proporcionará um raio aleatório de pixels, o ta-

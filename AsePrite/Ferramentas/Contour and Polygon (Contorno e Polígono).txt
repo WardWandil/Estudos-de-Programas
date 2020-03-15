@@ -2,7 +2,8 @@
 
 A ferramenta de Contorno é responsável por preencher o formato ou 
 linha que desenhar.
-Já a ferramenta de polígono funciona de maneira similar mas com uma forma geométrica que o designer formar.
+Já a ferramenta de polígono funciona de maneira similar mas com uma
+forma geométrica que o designer formar.
  Realizando o contorno ou o polígono com o botão esquerdo do mouse,
 será feito um design com a devida cor primária selecionada, reali-
 zando com o direito será feito com a cor secundária. 

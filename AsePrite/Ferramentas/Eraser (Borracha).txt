@@ -1,6 +1,7 @@
 # Ferramenta Borracha 
 
-Esta ferramenta é responsável por apagar qualquer desenho que selecionar efetuado na área de trabalho.
+Esta ferramenta é responsável por apagar qualquer desenho que dese-
+jar efetuado na área de trabalho
  Tecla auxiliar = E
  Esta ferramenta pode apagar um pixel ou mais, basta selecionar a
 expessura na área de pixels. 

@@ -11,7 +11,8 @@ escrito "(numero depixels)px", lá é onde você pode alterar a expes-
 sura da quantidade de pixels produzidos ao desenhar (ao girar o
 scroll para cima aumenta o numero de pixels, ao girar para baixo di-
 minui o numero). 
- Ao lado esquerdo do espaço para definir a grossura da caneta, é possível ver como esta a expessura da escrita além de definir formas
+ Ao lado esquerdo do espaço para definir a grossura da caneta, é
+possível ver como esta a expessura da escrita além de definir formas
 de inserir os pixels, são 3:
 
 A primeira, em forma do seu pincel padrão que busca fazer as rasura
@@ -22,7 +23,8 @@ E a terceira, em forma de linha inclinada, que busca desenhar de ma-
 neira reta e linear.
 
  Ao lado direito pode se notar um simbolo de frasco de tinta deno-
-minado "ink" (tinta), lá é onde denomina-se o modelo de desenho que será reproduzido ao utilizar a ferramenta, sendo eles:
+minado "ink" (tinta), lá é onde denomina-se o modelo de desenho que
+será reproduzido ao utilizar a ferramenta, sendo eles:
 
 "Simple Ink" = modo padrão de desenho, onde se é inserido os pixels
 de forma linear e normal.
@@ -37,7 +39,8 @@ desenvolvida uma risca de transparência 100).
 Logo após podemos observar as outras 3 de funcionalidades similares,
 o que difere é que, a primeira, "Copy+Alpha Lock" busca desenhar
 bloqueando o desenho a outros rabiscos de outras riscas, a "Alpha
-Lock" desenhará apenas em cima do que foi feito na "Copy+Alpha Lock", e a "Shading" busca bagunçar as duas anteriores além de tam-
+Lock" desenhará apenas em cima do que foi feito na "Copy+Alpha
+Lock", e a "Shading" busca bagunçar as duas anteriores além de tam-
 bém inserir outras cores da paleta.
 E logo abaixo das 5 vemos uma opção denominada "Same in all tools", 
 após ativa, ela colocará a forma de ink selecionada em todas as ou-

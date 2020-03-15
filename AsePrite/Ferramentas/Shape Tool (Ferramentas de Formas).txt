@@ -4,9 +4,11 @@ A Shape Tool cria formas geómetricas mais conhecidas e principais,
 como o formato eclipse e o retângulo.
  Tecla auxiliar para retângulo = U
  Tecla auxiliar para eclipse = Shift+U
- Ao clicar na tecla "U" com o retângulo, altera se ele será ou não preenchido, a mesma coisa com o eclipse, porém as teclas Shift+U.  
+ Ao clicar na tecla "U" com o retângulo, altera se ele será ou não
+preenchido, a mesma coisa com o eclipse, porém as teclas Shift+U.  
  Clicando e segurando o botão do mouse com devida forma selecionada,
-o design pode iniciar a forma, arrastando o ponteiro do mouse para a devida posição desejada pode definir-se o tamanho, o modelo e até o formato da forma geométrica.
+o design pode iniciar a forma, arrastando o ponteiro do mouse para a
+devida posição desejada pode definir-se o tamanho, o modelo e até o formato da forma geométrica.
  Pressionando o botão esquerdo do mouse, a forma será posicionada 
 com a devida cor primária selecionada. 
  Ao selecionar uma forma preenchida, ela será posicionada vazia du-

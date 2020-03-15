@@ -11,7 +11,8 @@ senho e os pixels irão se misturar.
  Ao selecionar uma das ferramentas acima, basta clicar em R novamen-
 te para ir alternando entre os dois. 
  A ferramenta de Bagunçar, ao passar sobre uma linha ou cores dife-
-rentes, irá bagunçar todas as cores que estão no raio de ação dela de maneira que os pixels fiquem de forma aleatória, fazendo efeito
+rentes, irá bagunçar todas as cores que estão no raio de ação dela
+de maneira que os pixels fiquem de forma aleatória, fazendo efeito
 de mistura sobre o design.
  A ferramenta de Borrar servirá para desfocar um pixel, adicionando
 e substituindo os pixels de, por exemplo, de uma cor pela mesma cor
