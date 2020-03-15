@@ -1,0 +1,14 @@
+# Ferramenta de Spray
+
+A ferramenta de Spray populalizou-se la no Paint do Windows,consis- te em uma ferramenta similar a caneta, mas que desenha pixels de ma-
+neira ampla e espalhada
+ Tecla Auxiliar = Shift+B
+ Ao utiliza-la, ela proporcionará um raio aleatório de pixels, o ta-
+manho dos pixels pode ser decidido a sua escolha assim como o raio
+de alcance dela ou a quantidade de partícular nela
+ Pode ser usada com os diferentes tipos de Ink, deixando uma área
+bem aberta a pixel arts grandes além de ser funcional na adição de 
+muitos efeitos que é preciso colocar um a um com a caneta
+ 
+ Chegando aqui você entende como funciona a ferramenta Spray 
+                       no Aseprite

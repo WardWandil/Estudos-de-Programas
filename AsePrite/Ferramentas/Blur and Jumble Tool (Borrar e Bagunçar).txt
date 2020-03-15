@@ -2,33 +2,33 @@
 
 A ferramenta de borrar (Blur tool) não é uma ferramenta tão nova, 
 popularizou-se mais com o Photoshop, ela consiste em borrar alguma
-cor ou algum desenho feito
+cor ou algum desenho feito.
 Já a ferramenta de Jumble também não é de hoje, e consiste em bagun-
 çar os pixels de forma aleatória basta passa-la em cima de algum de-
-senho e os pixels irão se misturar  
+senho e os pixels irão se misturar.
  Tecla auxiliar do Blur = R
  Tecla auxiliar do Jumble = R
  Ao selecionar uma das ferramentas acima, basta clicar em R novamen-
-te para ir alternando entre os dois 
+te para ir alternando entre os dois. 
  A ferramenta de Bagunçar, ao passar sobre uma linha ou cores dife-
 rentes, irá bagunçar todas as cores que estão no raio de ação dela de maneira que os pixels fiquem de forma aleatória, fazendo efeito
-de mistura sobre o design
+de mistura sobre o design.
  A ferramenta de Borrar servirá para desfocar um pixel, adicionando
 e substituindo os pixels de, por exemplo, de uma cor pela mesma cor
 só que com níveis de opacidade e tonalidade, dando uma total expe-
 riência de desfoque e efeitos de diferênciação em profundidade ao 
-sua pixel art
+sua pixel art.
  Na ferramenta de Blur também é possível aumentar e diminuir os pi-
 xels, para maior desfoque, além de também aumentar e diminuir a opa-
 cidade que afeta nos níveis de desaparecimento da cor ou o que dese-
-ja borrar 
+ja borrar. 
  Na ferramenta de Jumble, há a possibilidade de aumentar os pixels
 da ferramenta, que aumentará o raio de alcançe do efeito que ela
 passa, assim como também aumentar e diminuir a opacidade, que nela 
-afeta em quão vísivel fica as misturar de pixels
+afeta em quão vísivel fica as misturar de pixels.
 
  Chegado aqui, você entenderá a funcionalidade das ferramentas 
-                de Blur e Jumble no Aseprite
+                de Blur e Jumble no Aseprite.
  
 
 
