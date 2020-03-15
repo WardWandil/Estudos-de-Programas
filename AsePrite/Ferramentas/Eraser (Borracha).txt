@@ -1,15 +1,15 @@
 # Ferramenta Borracha 
 
-Esta ferramenta é responsável por apagar qualquer desenho que selecionar efetuado na área de trabalho
+Esta ferramenta é responsável por apagar qualquer desenho que selecionar efetuado na área de trabalho.
  Tecla auxiliar = E
  Esta ferramenta pode apagar um pixel ou mais, basta selecionar a
-expessura na área de pixels 
+expessura na área de pixels. 
  Pode ser compátivel com qualquer tipo de Brush Type para apagar no
-devido modelo que preferir
+devido modelo que preferir.
  Serve para corrigir erros e imperfeições que por um descuido foram
-efetuadas ou você não gostou do desenho
+efetuadas ou você não gostou do desenho.
  Também pode se definir a densidade/opacidade da ferramenta
 Ao selecionar a devida opacidade é possível apagar a devida quanti-
-dade de opacidade selecionada de qualquer desenho efetuado
+dade de opacidade selecionada de qualquer desenho efetuado.
 
- Ao chegar aqui você entende a ferramente Eraser no Aseprite 
+ Ao chegar aqui você entende a ferramente Eraser no Aseprite.

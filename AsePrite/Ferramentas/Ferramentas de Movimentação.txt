@@ -3,37 +3,37 @@
 Em ambas as áreas de trabalho é preciso ter um bom campo de visão
 sobre o que esta fazendo para assim, desenvolver melhor.
 Veja todas as ferramentas que o Aseprite disponibiliza para melhor
-orientação na produção do seu design
+orientação na produção do seu design.
  Ferramenta de Lupa/Zoom: Esta ferramenta é para se aproximar e de-
 saproximar-se da imagem que esta produzindo, para enchergar melhor
-o que esta fazendo ou ter uma visão "de cima" sobre o que produz
+o que esta fazendo ou ter uma visão "de cima" sobre o que produz.
 As formas de se utilizar esta ferramenta são:
  Girando o Scroll do mouse, desta forma para onde você indicar com o
 ponteiro o zoom será tirado ou colocado, rodando para cima pode se
-aproximar o zoom, rodando para baixo se desaproxima
+aproximar o zoom, rodando para baixo se desaproxima.
  Hand Tool (Ferramenta de mão): esta ferramenta é utilizada a partir
 do objetivo de mover-se perante o design sem precisar desaproximar o
 zoom, se "arrastando" em torno da onde queira para melhor movimenta-
-ção e poder-se trabalhar com mais práticidade
+ção e poder-se trabalhar com mais práticidade.
 As formas de se utilizar esta ferramenta são:
  Clicando no Scroll do mouse, ao clicar, o ponteiro terá o ícone de 
-uma mão e você poderá arrastar o campo de visão para onde quiser
+uma mão e você poderá arrastar o campo de visão para onde quiser.
  Segurando o botão [Space], assim que segurar o ponteiro passará a 
 ter o ícone de uma mão e poderá arrastar o campo de visão utilizando
-qualquer botão do mouse, esquerdo, direito ou scroll
+qualquer botão do mouse, esquerdo, direito ou scroll.
  Acréssimos:
 Ao segurar o botão [Space], irá aparecer opções no canto superior a 
 área de trabalho, la poderá se definir o campo de visão a um olhar 
 em cem por cento da imagem, centralizada com a imagem ou em tela in-
-teira por resolução para olhar superficialmente
+teira por resolução para olhar superficialmente.
 Pode-se também utilizar as abas de correr localizadas ao redor do
 perímetro da área de trabalho em que se desenha, a de baixo para
 correr para mover para os lados e a do lado direito para se mover 
-para cima ou para baixo
+para cima ou para baixo.
 
- Chegando aqui você entenderá a movimentação do campo de visão 
-                       do Aseprite
-
+   Chegando aqui você entenderá a movimentação do campo de visão 
+                        do Aseprite.
+ 
 
 
 

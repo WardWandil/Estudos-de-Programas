@@ -3,14 +3,14 @@
 As ferramentas de seleção são conhecidas por toda parte, e abrangida
 em todos os programas de design além de ser impressindível na área 
 de desenho. Consiste em ser utilizada para selecionar uma tal parte
-ou tal objeto de seu desenho
+ou tal objeto de seu desenho.
  As ferramentas de seleção do Aseprite são 5:
 
 Retângular Marquee Tool (Ferramenta de Marcação em Retângulo): que 
 consiste em selecionar a parte desejada a partir de uma marcação em
 uma forma de quatro lados, partindo do início da marcação até onde
 bem entender, ao finalizar,a área que inseriu dentro da forma fica 
-então devidamente selecionada
+então devidamente selecionada.
  Tecla Auxiliar = M
 Elliptical Marquee Tool (Ferramenta de Marcação em Ellíptico): ela 
 consiste em selecionar sua devida parte que queira a partir de uma
@@ -22,19 +22,19 @@ Lasso Tool (Ferramenta de laço): dado este nome pois com ela você
 poderá demarcar sua marcação desejada apenas ao desenhar ela como 
 bem queira, dando mais liberdade de seleção ao designer, nem que vo-
 cê não tenha acabado a demarcação da seleção, automaticamente será
-completada sozinho ao largar o botão do mouse
+completada sozinho ao largar o botão do mouse.
  Tecla Auxiliar = Shift+Q
 Polygonal Lasso Tool (Ferramenta de Lasso de Polígono): com esta 
 ferramenta de seleção pode-se definir a área a ser selecionada atra-
 véz de um polígono, que você define o perímetro a partir de cada vez
 que confirma alguma das arestas da demarcação, após decidir todas a
-área que deseja será demarcada
+área que deseja será demarcada.
  Tecla Auxiliar = Shift+Q (Ao clicar novamente nestas teclas pode se
 alternar entre o lasso e o lasso polígono automaticamente)
 Magic Wand Tool (Ferramenta da Varinha mágica): esta ferramenta pro-
 cura selecionar a área desejada de maneira rápida e direta, ao cli-
 car em alguma cor ou parte de desenho, será selecionada toda a parte
-que provém deste lugar, uma das ferramentas mais usadas no programa,
+que provém deste lugar, uma das ferramentas mais usadas no programa.
 Tecla Auxiliar = W
  
  De maneira geral, as ferramentas de seleção serve para que, cada
@@ -45,17 +45,17 @@ ja por exemplo, na hora que você fez o desenho de algo e quer sobre-
 por sobre alguma outra coisa, basta arrastar a parte após seleciona-
 da e mover para cima do que deseja, ou até quando desenha rabiscar 
 algo de forma aleatória mas não pode pois pode afetar os designs em
-volta, é uma ferramenta essencial para trabalhos desta profissão
+volta, é uma ferramenta essencial para trabalhos desta profissão.
  Citando algumas funcionalidades delas no Aseprite: 
  Com a ferramenta de Magic Wand é possível clicar na área ao redor
 do desenho que deseja separar, e então você selecionará tudo em vol-
-ta da área aberta ao redor do seu desenho
+ta da área aberta ao redor do seu desenho.
  Novamente, com a ferramenta de Magic Wand, é possível desabilitar 
 a opção denominada "Continous", logo após ao clicar por exemplo em
-alguma cor, todas as mesmas cores do desenho serão selecionadas
+alguma cor, todas as mesmas cores do desenho serão selecionadas.
  
  Chegado aqui, você compreende as funcionalidades e práticidades de
-          todas as ferramentas de seleção do Aseprite
+          todas as ferramentas de seleção do Aseprite.
  
 
 

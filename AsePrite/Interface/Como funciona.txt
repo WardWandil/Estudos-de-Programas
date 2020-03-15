@@ -1,1 +1,5 @@
 # Interface Geral
+
+Aqui será explicado a funcionalidade e uma explicação breve da inter
+face deste prograna
+
