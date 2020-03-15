@@ -1,0 +1,22 @@
+# Conta gotas
+
+Esta ferramenta serve para capturar uma devida cor selecionada para
+poder utiliza-la
+ Tecla Auxiliar = i
+ Ao seleciona-la, com o desejo de selecionar uma cor para utilizar 
+que você não sabe mais qual é na paleta de cores ou até para acesso
+rápido a uma cor ao invés de ir até a paleta de cores e ficar procu-
+rando, clique com o botão do mouse em uma cor desejada, a partir
+daí, a cor será selecionada para usar nas demais ferramentas de de-
+senho
+ Ao clicar em uma cor com o botão esquerdo do mouse, você irá sele-
+cionar a cor que clicou como primária, ao clicar com o botão esquer-
+do, a cor será selecionada como a secundária
+ Em cima da área de trabalho na primeira opção, é possível filtrar o
+formato de cor que deseja capturar para usar, seja ela RGB, Color,
+Alpha entre outros
+ Logo do lado dela, há a possibilidade de se escolher se deseja pe-
+gar apenas da da primeira Layer inserida, de todas ou da atual
+
+ Chegado este ponto você compreendeu a maneira de usar o Eyedropper
+                          no Aseprite

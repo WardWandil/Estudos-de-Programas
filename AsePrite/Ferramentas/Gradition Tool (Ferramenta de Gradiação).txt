@@ -1,0 +1,57 @@
+# Ferramenta de Gradiação
+
+Esta ferramenta é utilizada para fazer um desenho de cores que haja
+um degradê de uma para a outra ou mais cores, fazendo desenhos com 
+mais efeitos de colorações 
+ Tecla Auxiliar: Shift+G
+ O modo de usar esta ferramenta é muito simples; Ao clicar com o bo-
+tão do mouse, ele iniciará um degradê de uma cor para a outra, onde
+você poderá decidir até onde define-se a gradiação de cor
+ Se usar a ferramenta com o botão esquerdo do mouse, será realiazada
+uma gradiação da cor primária para a secundária, se utiliza-la com o
+botão direito, será feita a gradiação da cor secundária para a pri-
+mária
+ Quanto mais se esticar a gradiação, maior será a mudança de uma cor
+para a outra, inicialmente será uma linha ao clicar e segurar o mou-
+se, e você poderá decidir a que direção irá ser a gradiação
+ Esta ferramenta é provinda do Paint Bucket (Balde de tinta), por 
+tanto ao utilizar a ferramenta em cima de uma devida cor, ela será 
+substituida  por inteira pelo degradê que o designer fizer 
+ Após a opção "Continous" desativa, ao clicar para realizar o degra-
+dê em alguma cor, todas as cores iguais a esta também serão afetadas
+pela ferramenta
+ Acima da interface de trabalho, é possível localizar uma grande ta-
+bela que normalmente provém na opção "No Dithering" (Sem Pontilha-
+dos), ao selecionar para escolher as opções, pode se decidir como
+será o degradê efetuado, dentre elas as opções 2x2, 4x4 e 8x8 em 
+bayer matrix, ou seja, o modelo de degradê em pontilhados que dese-
+ja efetuar 
+ Também é possível definir-se a opacidade na área acima da homework,
+possibilitando assim, do desenhista fazer trabalhos de degradê mais 
+suaves ou mais bruscos 
+ Ao lado direito da opção "Continous", pode se ver um ícone de ajus-
+tes, ao clica-lo, pode se definir se o degradê que irá realizar será
+efetuado na camada que você esta ou nas demais camadas visíveis, as-
+sim como pode se definir também se o degradê irá parar ao chegar na
+grade inicial
+ 
+  Ao chegar aqui, você terá compreendido toda a funcionalidade da 
+                     ferramenta de Degradê
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
