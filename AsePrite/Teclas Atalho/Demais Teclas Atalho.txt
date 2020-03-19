@@ -1,0 +1,32 @@
+# Teclas Atalhos Gerais  
+
+                     Atalhos de Arquivo
+Criar novo Aquivo = Ctrl+N
+Abrir novo Arquivo = Ctrl+O
+Salvar Projeto = Ctrl+S
+Salvar como... = Ctrl+Shift+S
+Exportar arquivo = Ctrl+Alt+Shift+S
+Importar Sprite Sheet = Ctrl+I
+Exportar Sprite Sheet = Ctrl+E
+Repetir ultima exportação = Ctrl+Shift+X
+                   Atalhos de Editar
+Desfazer Alteração = Ctrl+Z
+Refazer Alteração = Ctrl+Y
+Rodar Horizontalmente = Shift+H
+Rodar Verticalmente = Shift+V
+Criar novo Brush = Ctrl+B
+Substituir cor = Shift+R
+Transformar o projeto = Ctrl+T
+Abrir Ajustes de Saturação = Ctrl+U
+Abrir Ajuste de Cor = Ctrl+M
+Inserir Texto = T
+Copiar área selecionada = Ctrl+C
+Colar área selecionada = Ctrl+V
+Cortar e Recortar = Ctrl+X
+                       Selecionar 
+Selecionar tudo = Ctrl+A
+Deselecionar = Ctrl+D
+Reselecionar = Ctrl+Shift+D
+Inverter Seleção = Ctrl+Shift+I
+
+

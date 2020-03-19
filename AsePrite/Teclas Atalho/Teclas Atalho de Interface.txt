@@ -1,0 +1,32 @@
+# Teclas Atalho da Interface Geral
+
+                           Camadas
+ Criar Nova Camada = Shift+N
+ Criar Novo Grupo de Camadas = Alt+Shift+N
+ Propriedades da Camada = Shift+P
+ Deixar a camada Visivel/invisivel = Shift+X
+  
+                           Frames
+ Criar Novo Frame = Alt+N
+ Criar Novo Frame vazio = Alt+B
+ Duplicar Cel = Alt+D
+ Duplicar Linked Cel = Alt+M
+ Deletar frame = Alt+C
+ 
+                          Gerais
+ Modo Tela Cheia = Ctrl+F
+ Movimentar:
+Espaço (Pressionar abre opções em cima da homework pra definir visão
+Zoom = Z (Botão esquerdo aproxima, direito desaproxima)
+ Voltar Ação Realizada = Ctrl+Z 
+ Bloquear e Desbloquear alterações na paleta = A
+ 
+
+
+
+
+
+
+
+
+ 

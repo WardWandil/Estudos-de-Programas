@@ -1,0 +1,49 @@
+# Teclas atalho para suas ferramentas do Aseprite 
+
+ Pen Tool (Caneta) = B
+ Spray Tool (Ferramenta Spray) = Shift+B
+ Eraser (Borracha) = E
+ Blur Tool (Ferramenta de Borrar) = R
+ Jumble Tool (Ferramenta de Bagunçar) = R
+(Ao clicar em R novamente com uma das ferramentas selecionadas pode
+se ficar alternando entre elas)
+ EyeDrooper (Conta-Gotas) = i
+ Ferramentas de seleção:
+Retângular Marquee Tool (Ferramenta Marcação em Retângulo)= M
+Elliptical Marquee Tool (Ferramenta Marcação em Elíptico)= Shift+M
+Lasso Tool (Ferramenta de laço) = Shift+Q
+Polygonal Lasso Tool (Ferramenta Lasso de Polígono) =  Shift+Q ]
+ (Ao clicar novamente nestas teclas pode se alternar entre o lasso e
+o lasso polígono automaticamente)
+Magic Wand Tool (Ferramenta da Varinha mágica) = W
+ Hand Tool (Ferramenta de Mão) = H (ou Scroll do Mouse)
+ Gradient Tool (Ferramenta de Gradiação) = Shift+G
+ Paint Bucket (Balde de Tinta) = G
+ Line Tool (Ferramenta Linha) = L
+ Curve Line Tool (Ferramenta de Linha Curva) = Shift+G
+ Contour Tool (Ferramenta de Contorno) = D
+ Polygon Tool (Ferramenta de Polígono) = Shift+D
+ Shape Tools (Ferramenta de Formas):
+Rectangle Tool (Ferramenta de Retangulo) = U
+Filled Rectangle Tool (Ferramenta de Retangulo Preenchido) = U
+(Basta clicar U novamente para ir alternando) 
+Ellipse Tool (Ferramenta de elipse) = Shift+U
+Filled Ellipse Tool (Ferramenta Elipse Preenchido) = Shift+U
+(Basta clicar em Shift+U novamente para seguir alternando entre 
+elas após uma selecionada)
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+ 
